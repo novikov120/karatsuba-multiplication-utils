@@ -1,6 +1,6 @@
 {
   "name": "karatsuba-multiplication-utils",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Multiplies digit-array integers with the Karatsuba divide-and-conquer method.",
   "type": "module",
   "main": "src/index.js",
